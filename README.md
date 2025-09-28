@@ -33,6 +33,8 @@ The scope of the Directive is broad, and this repository aims to grow accordingl
 
 Contributions and suggestions are welcome. See the *Contributing* section below for information on how to participate.
 
+For a full list of individuals and organisations who have contributed to these guides, see [CONTRIBUTORS.md](CONTRIBUTORS.md).
+
 ## How to use these guides
 
 These guides provide practical checklists, explanations of legal concepts and references to official sources. They are meant to be read alongside official EU guidance such as the *Guide to free movement* and national information portals. When using these documents:
