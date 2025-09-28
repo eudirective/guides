@@ -28,7 +28,7 @@ The scope of the Directive is broad, and this repository aims to grow accordingl
 - **Country-specific implementation** – summaries of how each Member State transposes the Directive, notable national practices and contact details of competent authorities.
 - **Appeals and complaint procedures** – guidance on national appeal routes, SOLVIT, petitions to the European Parliament and complaints to the European Commission.
 - **Case-law summaries** – brief analyses of Court of Justice of the European Union judgments interpreting Directive 2004/38/EC and related legislation.
-- **AI guides **– guides on how to use AI workflows and custom GPTs to individualise letters, complaints, and research, and AI usage guides for non-technical users and contributors.
+- **AI guides** – guides on how to use AI workflows and custom GPTs to individualise letters, complaints, and research, and AI usage guides for non-technical users and contributors.
 - **Frequently asked questions** – answers to common scenarios (e.g., proof of residence, recognition of partnerships, rights of students, health insurance requirements).
 
 Contributions and suggestions are welcome. See the *Contributing* section below for information on how to participate.
