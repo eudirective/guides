@@ -49,7 +49,7 @@ To help this repository grow:
 - **Submit guides** – contributions should be written in Markdown using clear headings. Keep tables to keywords or short phrases and keep longer explanations in the main text. Cite authoritative sources (EU legislation, case-law or official guidance) so users can verify information. Avoid including personal data or providing legal advice.
 - **Review and discuss** – comment on open pull requests and issues to improve accuracy and usability.
 
-Please ensure that your contributions respect copyright laws and do not copy proprietary content. For further information on contributing see [CONTRIBUTORS.md](CONTRIBUTORS.md)
+Please ensure that your contributions respect copyright laws and do not copy proprietary content. For further information on contributing see the [Contributors Guide](CONTRIBUTORS.md)
 
 ## Disclaimer
 
