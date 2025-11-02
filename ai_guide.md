@@ -6,6 +6,10 @@ Law is a complex discipline. Using AI can make it far more accessible by allowin
 
 ---
 
+## What to keep in mind before you start
+- Avoid uploading personal, confidential or identifying information to AI tools, as such data may be stored or processed externally. When discussing real cases, anonymise names and details to protect privacy and security.
+- This guide can help with personal study and understanding of legal issues. Do not use results from AI assisted research as legal advice or directly in legal proceedings.
+
 ## 1. Define the Problem Clearly
 
 Begin by clearly identifying your **legal question** and the **relevant jurisdiction**. For example: *â€œRefusal of residence card for EU family members in Estonia.â€*
